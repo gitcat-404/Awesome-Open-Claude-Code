@@ -1,4 +1,4 @@
-# Awesome Claude Code (Leak Edition) 
+# Awesome Open Claude Code (Leak Edition) 
 ![演示图](demo_1.png)
 > 📦 围绕 2026 年 3 月 31 日 Claude Code npm sourcemap 泄露事件，整理的 GitHub 仓库全景索引。  
 > 涵盖：原始存档、可运行修复版、Python/Rust 重写、架构分析、文档化、派生工具等各类型项目。
